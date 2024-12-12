@@ -16,11 +16,17 @@
 title: Vivere di rendita
 email: info@viveredirendita.net
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Scopri strategie, consigli e strumenti pratici per raggiungere 
+  l'indipendenza finanziaria e vivere di rendita. 
+  Approfondimenti su investimenti, gestione delle finanze personali 
+  e stili di vita sostenibili per realizzare i tuoi obiettivi.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://viveredirendita.net" # the base hostname & protocol for your site
+
+domain: candoni.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://candoni.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /viveredirendita-site/      # place folder name if the site is served in a subfolder
+
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
